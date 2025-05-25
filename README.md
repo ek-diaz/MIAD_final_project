@@ -1,2 +1,2 @@
-# MIAD_final_project
-Proyecto aplicado de analítica de datos
+# HADA – Herramienta Analítica para Detección de Anomalías
+🔍 Este repositorio contiene el desarrollo del prototipo funcional HADA, una solución analítica diseñada para facilitar la detección temprana de anomalías operativas en clientes industriales de Contugas, mediante el análisis de presión, temperatura y volumen hora a hora. El sistema integra machine learning (Random Cut Forest), visualización interactiva en Power BI y arquitectura en la nube sobre AWS para lograr un monitoreo casi en tiempo real, escalable y sin supervisión manual.
